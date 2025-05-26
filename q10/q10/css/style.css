@@ -100,7 +100,7 @@
   color: #0079a5f8;
   background: #d0edfff8;
   border: 4px #75caff dashed;
-    transition: 1s;
+  transition: 1s;
 }
 .backcolor:hover{
   color: #67c5ff;

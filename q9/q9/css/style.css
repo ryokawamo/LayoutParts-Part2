@@ -50,19 +50,18 @@
 }
 
 .blue-box{
-  background: url(https://picsum.photos/id/1005/200/300);
   width: 200px;
   height: 200px;
   background: #331aefd0;
   margin: 0 auto;
-
+  transition: 0.5s;
 }
 
 .Hover:hover{
   background: #ff27e2c9;
 }
 
-.Hover-spin:hover{
+.Hover-spin:hover {
   transform: rotate(360deg);
 }
 
